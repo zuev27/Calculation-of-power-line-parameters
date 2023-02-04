@@ -46,7 +46,7 @@ if n_uchastkov == "":
   n_uchastkov = 1
 else:
   n_uchastkov = int(n_uchastkov)
-u_nom = input("Введите Uном: ")
+u_nom = input("Введите Uном, кВ: ")
 d_sg = standart_d_sg.get(u_nom)
 r_sum = 0
 x_sum = 0
