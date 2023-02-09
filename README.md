@@ -1,4 +1,4 @@
-# Calculation-of-power-line-parameters
+# Calculation-of-power-line-parametersакакакакакакк43
 Расчет параметров ЛЭП (R, X, B) для работы в RastrWin3
 ## Работа программы
 Программа для расчета параметров линий электропередач (ЛЭП) R, X, B для последующей работы в [программном комплексе RastrWin3](https://www.rastrwin.ru/rastr/index.php).
